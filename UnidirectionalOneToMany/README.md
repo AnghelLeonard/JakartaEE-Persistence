@@ -1,1 +1,1 @@
-This application is an example of best mapping of a bidirectional `@OneToMany` association.
+This application is meant to reveal the performance penalties of unidirectional `@OneToMany`.
