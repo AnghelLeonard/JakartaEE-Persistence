@@ -17,7 +17,7 @@ public class BookstoreResource {
 
     @GET
     @Path("load")    
-    public Response removeBookOfAuthor() {
+    public Response loadDataAgainAndAgain() {
 
         System.out.println("\n\nLoading author with books ...");
         
